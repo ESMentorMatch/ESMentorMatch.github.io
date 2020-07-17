@@ -2475,12 +2475,15 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s4PkIqQucA .mbr-section-subtitle {
-  color: #232323;
+  color: #767676;
   text-align: left;
 }
 .cid-s4PkIqQucA H2 {
   color: #232323;
   text-align: center;
+}
+.cid-s4PkIqQucA .user_name {
+  color: #767676;
 }
 .cid-s4PRWZcITO {
   padding-top: 30px;
